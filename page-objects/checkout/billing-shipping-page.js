@@ -1,5 +1,3 @@
-const faker = require('faker');
-
 class BillingAndShippingPage {
 
     get firstNameGuestCheckout() {
