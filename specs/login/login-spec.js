@@ -7,7 +7,7 @@ describe('Login', () => {
     xit('Should not be able to sign in', () => {
       browser.url('./');
 
-      //Close modal and click on Tesla Account link
+      //Close modal and click on Tesla Account 
       HomePage.navigateToSignInPage();
 
       //Login
